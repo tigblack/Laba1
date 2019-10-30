@@ -155,7 +155,7 @@ namespace ConsoleApplication1
                     x3 = Math.Sqrt(t2);
                     x4 = -Math.Sqrt(t2);
                     Console.ForegroundColor = ConsoleColor.Green;
-                    Console.Write("Дескриминант =  ");
+                    Console.Write("Дескриминант  =  ");
                     Console.WriteLine(D);
                     Console.Write("x1 =  ");
                     Console.WriteLine(x1);
