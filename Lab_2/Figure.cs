@@ -27,4 +27,8 @@ namespace Lab_2
             return this._Type + this.Area().ToString();
         }
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 8f91a9d8df73add73ff2ccdf65b4f6d0d88dd89a
